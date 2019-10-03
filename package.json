@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/langyo/minecraft-launcher-package/issues"
   },
-  "homepage": "https://github.com/langyo/minecraft-launcher-package#readme"
+  "homepage": "https://github.com/langyo/minecraft-launcher-package#readme",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "uuid-by-string": "^2.1.5"
+  }
 }
